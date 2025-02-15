@@ -29,7 +29,7 @@ cd currency-converter
 ```
 
 ### 2️⃣ Open the project:
-Simply open the `index.html` file in your browser to start using the Currency Converter.
+Simply open the `Currency.html` file in your browser to start using the Currency Converter.
 
 ## 🎯 Future Enhancements
 
